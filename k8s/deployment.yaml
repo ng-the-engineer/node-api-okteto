@@ -15,5 +15,3 @@ spec:
       containers:
         - name: node-csv-api
           image: okteto.dev/node-csv-api:latest
-          ports:
-            - containerPort: 5055
