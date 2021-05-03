@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: node-csv-api
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      name: node-csv-api
+  template:
+    metadata:
+      labels:
+        name: node-csv-api
+    spec:
+      containers:
+        - name: node-csv-api
+          image: engineer5/node-csv-api
+          ports:
+            - containerPort: 5055
