@@ -6,8 +6,6 @@ spec:
   type: LoadBalancer
   ports:
     - name: http
-      protocol: TCP
       port: 80
-      targetPort: 5055
   selector:
     app: node-csv-api
