@@ -3,7 +3,7 @@ kind: Service
 metadata:
   name: node-csv-api
   labels:
-    app: node-csv-api
+    name: node-csv-api
   annotations:
     dev.okteto.com/auto-ingress: "true"
 spec:
@@ -13,4 +13,4 @@ spec:
       port: 8080
       targetPort: 8080
   selector:
-    app: node-csv-api
+    name: node-csv-api
