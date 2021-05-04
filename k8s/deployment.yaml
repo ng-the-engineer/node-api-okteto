@@ -6,11 +6,11 @@ spec:
   replicas: 1
   selector:
     matchLabels:
-      name: node-csv-api
+      app: node-csv-api
   template:
     metadata:
       labels:
-        name: node-csv-api
+        app: node-csv-api
     spec:
       containers:
         - name: node-csv-api
