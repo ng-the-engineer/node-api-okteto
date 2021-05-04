@@ -4,8 +4,8 @@ metadata:
   name: node-csv-api
   labels:
     name: node-csv-api
-  # annotations:
-  #   dev.okteto.com/auto-ingress: "true"
+  annotations:
+    dev.okteto.com/auto-ingress: "true"
 spec:
   type: ClusterIP
   ports:
