@@ -13,4 +13,5 @@ spec:
       port: 8080
       targetPort: 8080
   selector:
-    name: node-csv-api
+    # name: node-csv-api
+    app: node-csv-api
