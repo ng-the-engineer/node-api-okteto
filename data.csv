@@ -1,5 +1,5 @@
 "skill","category","exp","competency","lastUse"
-"Node JS","Javascript", 6, 10, 2021.5
+"Node JS","Javascript", 6, 10, 2021.75
 "Type Script","Javascript", 1, 7, 2021.5
 "Nest JS","Javascript",0.5, 7, 2021.3
 "Jest","Javascript",1, 9, 2020.5
@@ -15,13 +15,14 @@
 "Loopback","Javascript", 1, 7, 2017
 "Sail JS","Javascript", 0.25, 3, 2016
 "Hapi","Javascript", 0.5, 5, 2017
+"Socket.io","Javascript", 0.5, 3, 2015
 
 "Java 11", "Java", 0.5, 6, 2020
 "Java 8", "Java", 3, 7, 2020 
-"Java 7", "Java", 1.5 , 6, 2013
-"Java 5", "Java", 4 , 8 ,2011
+"Java 7", "Java", 1.5 , 6, 2013.5
+"Java 5", "Java", 4 , 10 ,2011
 "Java 1.4", "Java", 2.5 , 7 ,2007
-"Cucumber", "Java", 1 , 7 ,2018
+"Cucumber", "Java", 1 , 8 ,2018
 "Spring Boot", "Java", 4 , 7 ,2017
 "JUnit", "Java", 3 , 7 ,2020
 "Mockito", "Java", 0.5 , 6 ,2018
@@ -33,20 +34,20 @@
 "Hadoop", "Java", 0.75 , 4 ,2012
 "J2EE", "Java", 1 , 6 , 2011
 "Websphere", "Java", 1.5 , 6 , 2011
-"Struts", "Java", 3 , 6 , 2011
-"Java Concurrent", "Java", 2 , 7 , 2011
+"Struts", "Java", 3 , 6 , 2010.25
+"Java Concurrent", "Java", 2 , 7 , 2010.5
 "Java Swing", "Java", 2 , 7 , 2009
 
 "Django", "Python", 1 , 6 , 2016
 "Pandas", "Python", 1 , 4 , 2014
 
 "PeopleSoft", "ERP", 2.5 , 7 ,2005
-"Crystal Report 10", "BI", 6 , 9 , 2007
+"Crystal Report 10", "BI", 6 , 10 , 2007
 
 "Open API 3", "Others", 1.5 , 7 , 2020
-"SCRUM", "Others", 6 , 8 , 2020.5
+"SCRUM", "Others", 6 , 8 , 2021
 
-"VB6", "Programming Language", 5 , 9 , 2006
+"VB6", "Programming Language", 5 , 10 , 2006
 "VB.net", "Programming Language", 1 , 7 , 2005.5
 "C#", "Programming Language", 1.5 , 6 , 2008
 "Javascript", "Programming Language", 8.75 , 10 , 2021.5
@@ -55,18 +56,19 @@
 "Ruby", "Programming Language", 0.5 , 6 , 2020
 "Go Lang", "Programming Language", 0.5 , 3 , 2020
 "C++", "Programming Language", 0.5 , 5 , 2009
+"Octave", "Programming Language", 1 , 3 , 2009
 
 "JWT", "Others", 2 , 5 , 2019
 
 
 "Microservices", "Others", 7.7 , 10 , 2021
-"Performance Tuning", "Others", 4 , 8 , 2012
+"Performance Tuning", "Others", 4 , 8 , 2012.5
 
-"CSS", "Others", 5 , 7 , 2020.5
+"CSS", "Others", 5 , 8 , 2021.75
 "Cryptography", "Others", 1.5 , 6 , 2009
 
 "EDI", "Others", 1 , 2 , 2008
-"OLAP", "BI", 3 , 7 , 2012
+"OLAP", "BI", 2.5 , 7 , 2012
 
 "k-means", "Machine Intelligence", 2 , 6 , 2017
 "Genetic Algorithm", "Machine Intelligence", 1.5 , 6 , 2017
@@ -74,21 +76,21 @@
 "Logistic Regression", "Machine Intelligence", 1 , 6 , 2015.5
 "Social Network Analysis", "Machine Intelligence", 1 , 4 , 2013
 "Graph Theory", "Machine Intelligence", 0.5 , 4 , 2013
-"Natural Language Processing", "Machine Intelligence", 2 , 7 , 2016
-"Recommendation Algorithm", "Machine Intelligence", 1.5 , 4 , 2013
+"Natural Language Processing", "Machine Intelligence", 2 , 8 , 2016.5
+"Recommendation Algorithm", "Machine Intelligence", 1.5 , 7 , 2013
 "Machine Learning", "Machine Intelligence", 2.5 , 7 , 2017
 "Cosine Similarity", "Machine Intelligence", 2.5 , 7 , 2018
 "Naive Bayes Algorithm", "Machine Intelligence", 1.5 , 4 , 2012.5
 "Collaborative Filtering", "Machine Intelligence", 1.25 , 4 , 2012.75
 "Jacquard Algorithm", "Machine Intelligence", 1.5 , 4 , 2018
-"Lucene", "Machine Intelligence", 1 , 4 , 2012.5
+"Lucene", "Machine Intelligence", 1 , 4 , 2012.75
 
-"SQL", "Database", 8.5, 10, 2021
-"Oracle", "Database", 4, 8, 2007
-"MySQL", "Database", 2.5, 8, 2013
+"SQL", "Database", 8.5, 10, 2020.75
+"Oracle", "Database", 4, 9, 2007.5
+"MySQL", "Database", 2.5, 9, 2013.75
 "Postgresql", "Database", 5.5, 7, 2021
-"DynamoDB", "Database", 2, 8, 2021
-"MongoDB", "Database", 0.5, 6, 2017
+"DynamoDB", "Database", 2, 9, 2021
+"MongoDB", "Database", 0.5, 6, 2016.5
 "InfluxDB", "Database", 0.3, 3, 2016
 "Redis", "Database", 1.5 , 6 , 2019.5
 "Memcached", "Database", 0.5 , 4 , 2012
@@ -96,7 +98,8 @@
 
 "AWS Serverless", "Cloud Computing", 0.6, 7, 2021.5
 "AWS EKS", "Cloud Computing", 0.2, 6, 2021
-"Docker", "Cloud Computing", 4, 8, 2020.75
+"Docker", "Cloud Computing", 4, 10, 2021.75
+"Docker compose", "Cloud Computing", 1, 8, 2021.5
 "AWS ECS", "Cloud Computing", 2.5, 6, 2019
 "ELK", "Cloud Computing", 0.8 , 8 , 2017
 
@@ -109,13 +112,13 @@
 "Chronograf", "DevOps", 0.2, 2, 2016.5
 "Nginx", "DevOps", 3, 7, 2020.75
 "Heroku", "DevOps", 0.3, 2, 2020
-"Github-Pages", "Others", 1 , 7 , 2021
+"Github-Pages", "Others", 1 , 7 , 2021.25
 
 "XMPP", "Real-time Messaging", 0.5 , 7 , 2012.5
 "Firebase", "Real-time Messaging", 0.5 , 4 , 2017
 
 "AWS EventBridge", "Message-oriented Architecture", 0.3, 7, 2021.3
-"BeeQueue/Redis", "Message-oriented Architecture", 0.5 , 4 , 2020
+"BeeQueue/Redis", "Message-oriented Architecture", 0.5 , 4 , 2020.5
 "RabbitMQ", "Message-oriented Architecture", 2.5 , 7 , 2016
 "IBM MQ", "Message-oriented Architecture", 0.5 , 4 , 2010
 
