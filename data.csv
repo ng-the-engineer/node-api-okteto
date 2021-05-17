@@ -3,8 +3,8 @@
 "Type Script","Javascript", 1, 7, 2021.5
 "Nest JS","Javascript",0.5, 7, 2021.3
 "Jest","Javascript",1, 9, 2020.5
-"Chai","Javascript",3.2, 8, 2019.5
-"Mocha","Javascript",2.8, 8, 2019.2
+"Chai","Javascript",3.2, 9, 2019.5
+"Mocha","Javascript",2.8, 9, 2019.2
 "Vue JS","Javascript", 0.75, 6, 2017.8
 "React JS","Javascript", 1.75, 7, 2021.5
 "Angular JS","Javascript", 2, 7, 2016
@@ -12,7 +12,11 @@
 "Kraken JS","Javascript", 2, 7, 2015
 "JQuery","Javascript", 2, 6, 2014
 "KOA 2","Javascript", 5.5, 8, 2020
+"Loopback","Javascript", 1, 7, 2017
+"Sail JS","Javascript", 0.25, 3, 2016
+"Hapi","Javascript", 0.5, 5, 2017
 
+"Java 11", "Java", 0.5, 6, 2020
 "Java 8", "Java", 3, 7, 2020 
 "Java 7", "Java", 1.5 , 6, 2013
 "Java 5", "Java", 4 , 8 ,2011
@@ -25,6 +29,7 @@
 "Hibernate", "Java", 2 , 6 ,2012
 "JBoss", "Java", 1.5 , 6 ,2012
 "JPF", "Java", 1 , 8 ,2012
+"Swing", "Java", 1 , 7 ,2010
 "Hadoop", "Java", 0.75 , 4 ,2012
 "J2EE", "Java", 1 , 6 , 2011
 "Websphere", "Java", 1.5 , 6 , 2011
@@ -48,10 +53,11 @@
 "Scala", "Programming Language", 0.5 , 6 , 2017
 "Kotlin", "Programming Language", 0.5 , 6 , 2017.5
 "Ruby", "Programming Language", 0.5 , 6 , 2020
+"Go Lang", "Programming Language", 0.5 , 3 , 2020
 "C++", "Programming Language", 0.5 , 5 , 2009
 
 "JWT", "Others", 2 , 5 , 2019
-"ELK", "Others", 0.8 , 8 , 2017
+
 
 "Microservices", "Others", 7.7 , 10 , 2021
 "Performance Tuning", "Others", 4 , 8 , 2012
@@ -86,11 +92,13 @@
 "InfluxDB", "Database", 0.3, 3, 2016
 "Redis", "Database", 1.5 , 6 , 2019.5
 "Memcached", "Database", 0.5 , 4 , 2012
+"Firebase", "Database", 0.5 , 6 , 2018
 
 "AWS Serverless", "Cloud Computing", 0.6, 7, 2021.5
 "AWS EKS", "Cloud Computing", 0.2, 6, 2021
 "Docker", "Cloud Computing", 4, 8, 2020.75
 "AWS ECS", "Cloud Computing", 2.5, 6, 2019
+"ELK", "Cloud Computing", 0.8 , 8 , 2017
 
 "Kubernetes", "DevOps", 1.5, 6, 2021
 "Circle CI", "DevOps", 0.5, 6, 2021
